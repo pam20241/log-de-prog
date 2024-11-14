@@ -1,0 +1,4 @@
+function ehPrimo(x){
+    x
+ 
+}
